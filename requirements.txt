@@ -12,4 +12,4 @@ sqlalchemy2-stubs==0.0.2a36
 sqlmodel==0.0.11
 starlette==0.27.0
 typing_extensions==4.7.1
-uvicorn==0.22.0.post1
+uvicorn==0.22.0
