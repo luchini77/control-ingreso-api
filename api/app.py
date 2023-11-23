@@ -15,10 +15,10 @@ def create_app():
         # "http://127.0.0.1:5173/",
         # "http://localhost:5173/admin",
         # "http://127.0.0.1:5173/admin"
-        "https://control-ingreso.netlify.app/",
-        "https://control-ingreso.netlify.app/admin",
-        "https://control-ingreso.netlify.app/agregar"
-
+        # "https://control-ingreso.netlify.app/",
+        # "https://control-ingreso.netlify.app/admin",
+        # "https://control-ingreso.netlify.app/agregar"
+        "*"
     ]
     
     app.add_middleware(
